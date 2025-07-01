@@ -48,5 +48,5 @@ A Flask-based web application that allows users to:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/text-speech-translator.git
+git clone https://github.com/Extacia21/text-speech-translator.git
 cd text-speech-translator
